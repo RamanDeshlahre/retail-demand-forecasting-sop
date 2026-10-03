@@ -1,0 +1,7 @@
+origin_day,dept_id,model,assumed_capacity_units,shortfall_units,assumption
+1857,FOODS_1,10389.029104975021,9558.0,831.0,illustrative capacity = 92% of model plan
+1857,FOODS_2,7905.920138002227,7273.0,632.9,illustrative capacity = 92% of model plan
+1857,FOODS_3,82252.49095524754,75672.0,6580.5,illustrative capacity = 92% of model plan
+1885,FOODS_1,10244.286786399125,9425.0,819.3,illustrative capacity = 92% of model plan
+1885,FOODS_2,8017.2527023498205,7376.0,641.3,illustrative capacity = 92% of model plan
+1885,FOODS_3,80110.1773089628,73701.0,6409.2,illustrative capacity = 92% of model plan

@@ -1,0 +1,2 @@
+store_id,item_id,days,base_forecast_units,assumed_uplift_pct,scenario_units,extra_six_unit_cases,assumption
+CA_1,FOODS_3_120,7,268.0,20,321.6,9,hypothetical promotion uplift; no causal estimate

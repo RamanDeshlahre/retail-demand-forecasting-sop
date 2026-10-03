@@ -1,0 +1,4 @@
+store_id,proposed_multiplier,reason,decision
+CA_1,1.0187258144923066,Calibration-period model bias correction,Do not deploy: overall holdout WAPE deteriorated
+CA_2,1.1642586672239446,Calibration-period model bias correction,Do not deploy: overall holdout WAPE deteriorated
+CA_3,1.0791938360336104,Calibration-period model bias correction,Do not deploy: overall holdout WAPE deteriorated
